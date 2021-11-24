@@ -7,8 +7,8 @@ A single keyboard I made cuz I was boring
 	 S  D     G  H  J		 5  6     8  9  0
 	 c# d#    f# g# a#		 c# d#    f# g# a#
 	
-	Z  X  C  V  B  N  M		Z  X  C  V  B  N  M
-	c  d  e  f  g  a  b		r  t  y  u  i  o  p
+	Z  X  C  V  B  N  M		R  T  Y  U  I  O  P
+	c  d  e  f  g  a  b		c  d  e  f  g  a  b
 
 ![Piano keyboard shortcuts](./pinaoKeyboardShortcuts.png)
   
