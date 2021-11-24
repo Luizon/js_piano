@@ -2,6 +2,11 @@
 	padding: 0px;
 	margin: 0px;
 }
+.boton-octava  {
+	height: 10vh;
+	width: 10vh;
+	position: absolute;
+}
 .espacio {
 	height: 50%;
 	width: 100%;
@@ -11,28 +16,26 @@
 	top: 0px;
 	background: black;
 	color: white;
-	width: 14%;
 	height: 50%;
 	vertical-align: bottom;
 }
 .sharp:hover {
-	background: gray;
+	background: #888;
 }
 .sharp:active {
-	background: lightgray;
+	background: #ccc;
 }
 .flat {
 	background: white;
-	width: 14%;
 	color: black;
 	height: 100%;
 	vertical-align: bottom;
 }
 .flat:hover {
-	background: lightgray;
+	background: #ccc;
 }
 .flat:active {
-	background: gray;
+	background: #888;
 }
 .piano {
 	height: 100%;
@@ -40,7 +43,6 @@
 }
 .labelWhite {
 	position: absolute;
-	width: 14%;
 	bottom: 10px;
 	font-size: 1.5em;
 }
